@@ -3089,3 +3089,5 @@ storage/perfschema/gen_pfs_lex_token
 sql/share/bulgarian
 sql/lex_token.h
 sql/gen_lex_token
+/.idea
+/cmake-build-debug
